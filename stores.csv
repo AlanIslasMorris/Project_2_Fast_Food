@@ -1,0 +1,40 @@
+id_store,id_store_names,id_categories,store_address,latitude ,longitude,rating_count
+0,0,0,"1044 US-11, Champlain, NY 12919, United States",44.9814099,-73.4598199,1306.5
+1,0,0,"10451 Santa Monica Blvd, Los Angeles, CA 90025, United States",34.0565932,-118.4259996,2251.0
+2,0,0,"10901 Riverside Dr, North Hollywood, CA 91602, United States",34.1525074,-118.3679036,1794.5
+3,0,0,"1100 N US Hwy 377, Roanoke, TX 76262, United States",33.0093179,-97.2229254,998.5
+4,0,0,"111 Madison St, Oak Park, IL 60302, United States",41.8796564,-87.7779131,1454.0
+5,0,0,"1121 Garnet Ave, San Diego, CA 92109, United States",32.7976607,-117.2494697,1159.0
+6,0,0,"11382 US-441, Orlando, FL 32837, United States",28.3999863,-81.4051029,1861.0
+7,0,0,"114 Delancey St, New York, NY 10002, United States",40.7188385,-73.9882797,2348.0
+8,0,0,"13749 US-183 Hwy, Austin, TX 78750, United States",30.4607176,-97.7928744,1240.0
+9,0,0,"1415 E State Rd, Fern Park, FL 32730, United States",28.6553497,-81.3426916,1617.5
+10,0,0,"151 West 34th Street (Macy's 7th Floor, New York, NY 10001, United States",40.750831,-73.9890961,263.0
+11,0,0,"1540 2nd St, Santa Monica, CA 90405, United States",34.0122192,-118.4945396,3380.5
+12,0,0,"160 Broadway, New York, NY 10038, United States",40.7093746,-74.0099791,5186.0
+13,0,0,"1650 Washington Ave, Miami Beach, FL 33139, United States",25.7902955,-80.1320774,4922.0
+14,0,0,"1698 US-209, Brodheadsville, PA 18322, United States",40.9220806,-75.3999187,1028.0
+15,0,0,"1916 M St NW, Washington, DC 20036, United States",38.9054561,-77.0442355,1269.0
+16,0,0,"210 5th S, Salt Lake City, UT 84106, United States",40.7590573,-111.8973832,3243.0
+17,0,0,"2400 Alliance Gateway Fwy, Fort Worth, TX 76177, United States",32.9580411,-97.3076518,957.0
+18,0,0,"25200 I-10 Lot 2, San Antonio, TX 78257, United States",29.6762669,-98.6345801,1460.0
+19,0,0,"262 Canal St, New York, NY 10013, United States",40.7185138,-74.0011677,3196.0
+20,0,0,"3501 Biscayne Blvd, Miami, FL 33137, United States",25.8099996,-80.1890981,2809.0
+21,0,0,"429 7th Ave, New York, NY 10001, United States",40.7505058,-73.990583,2052.0
+22,0,0,"490 8th Ave, New York, NY 10001, United States",40.7525294,-73.9928762,3902.0
+23,0,0,"501 W Imperial Hwy, Los Angeles, CA 90044, United States",33.9312613,-118.2829548,2722.0
+24,0,0,"550 Lawrence Expy, Sunnyvale, CA 94086, United States",37.3854949,-121.9954211,1562.0
+25,0,0,"555 13th St NW, Washington, DC 20004, United States",38.8969797,-77.0289132,1542.0
+26,0,0,"5725 W Irlo Bronson Memorial Hwy, Kissimmee, FL 34746, United States",28.3335081,-81.5137384,5566.5
+27,0,0,"5920 Balboa Ave, San Diego, CA 92111, United States",32.8206541,-117.1780115,550.0
+28,0,0,"621 Broadway, Newark, NJ 07104, United States",40.7719101,-74.1614754,1564.5
+29,0,0,"632 S R L Thornton Freeway Service Rd, Dallas, TX 75203, United States",32.7445961,-96.8122859,2657.5
+30,0,0,"6875 Sand Lake Rd, Orlando, FL 32819, United States",28.4503866,-81.4714142,19676.5
+31,0,0,"690 Alameda St, Los Angeles, CA 90021, United States",34.0352699,-118.2382063,2614.0
+32,0,0,"7010 Bradlick Shopping Center, Annandale, VA 22003, United States",38.8128231,-77.1850548,595.0
+33,0,0,"702-2 Haddonfield-Berlin Rd, Voorhees Township, NJ 08043, United States",39.8520594,-74.9810994,933.0
+34,0,0,"72-69 Kissena Blvd, Queens, NY 11367, United States",40.7274006,-73.8124604,2193.0
+35,0,0,"724 Broadway, New York, NY 10003, United States",40.7291264,-73.9932643,1670.0
+36,0,0,"8500 US-290, Austin, TX 78724, United States",30.3291349,-97.6606295,1406.0
+37,0,0,"9814 International Dr, Orlando, FL 32819, United States",28.4238144,-81.4612421,5467.0
+38,0,0,"By Mandalay Bay, 3999 S Las Vegas Blvd, Las Vegas, NV 89119, United States",36.0902437,-115.1758223,2365.0
